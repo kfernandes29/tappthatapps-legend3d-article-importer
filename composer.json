@@ -1,0 +1,6 @@
+{
+    "name": "kfern/legend-articles-importer",
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
